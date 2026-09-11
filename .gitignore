@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 数据快照（可由脚本重新生成）
+data/
+*.csv
+
+# 临时探测脚本（一次性，不入仓）
+fetch_probe*.py
+probe_hosts.py
